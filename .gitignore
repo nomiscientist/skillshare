@@ -9,7 +9,6 @@ Thumbs.db
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 
@@ -22,3 +21,5 @@ AGENTS.md
 
 # Worktrees
 .worktrees/
+config.bat
+node_modules
